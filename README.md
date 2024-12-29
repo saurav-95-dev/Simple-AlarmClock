@@ -1,7 +1,19 @@
 Application name : 
 
+Acknowledgments : 
+
+# Projects description : 
+
 Technologies used:
 
-Concepts:
+Concepts Utilized:
+
+Usage :
+
+License : 
+
+
+
+
 
 Try it ->
