@@ -1,19 +1,19 @@
-Application name : 
+# Project Name : 
 
-Acknowledgments : 
+# Acknowledgments : 
 
-# Projects description : 
+# Projects Description : 
 
-Technologies used:
+# Technologies used:
 
-Concepts Utilized:
+# Concepts Utilized:
 
-Usage :
+# Usage :
 
-License : 
-
-
+# License : 
 
 
 
-Try it ->
+
+
+### Try it ->
