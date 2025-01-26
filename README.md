@@ -15,9 +15,11 @@ None
 HTML , CSS , Javascript
 
 #### CONCEPTS AND TECHNIQUES :
-Promises , API Calling , DOM Manipulation , gettingCurrentLocation .
+
 
 #### USAGE :
+No extra command needed 
+
 #### LICENSE :
 #### CONTACT :
 
